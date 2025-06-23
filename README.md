@@ -17,7 +17,7 @@ This project provides a Python implementation for simulating and analyzing a fou
 
 ## Setup
 1. Clone the repository.
-```
+```bash
 https://github.com/xt2201/chemostat_foodchain_analyzer.git
 ```
 2. Create a virtual environment (optional but recommended):
