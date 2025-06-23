@@ -29,7 +29,10 @@ This project provides a Python implementation for simulating and analyzing a fou
 4. Run the experiments in the notebooks/ directory.
 jupyter lab
 
-      ```bash
+# Folder Structure
+
+The project directory is organized as follows:
+
 chemostat_foodchain_analyzer/
 ├── notebooks/                  # Jupyter notebooks for experiments, exploration, and visualization.
 │   ├── 01_equilibrium_analysis.ipynb
@@ -56,4 +59,3 @@ chemostat_foodchain_analyzer/
 ├── requirements.txt            # Lists project dependencies (numpy, scipy, matplotlib).
 ├── README.md                   # Project description, setup instructions, and usage guide.
 └── .gitignore                  # Specifies files and folders to ignore in version control.
-```
